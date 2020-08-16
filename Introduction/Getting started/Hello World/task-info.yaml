@@ -4,15 +4,15 @@ files:
   visible: true
   placeholders:
   - offset: 16
-    length: 33
+    length: 26
     placeholder_text: // put you code here to launch it
     initial_state:
       length: 33
       offset: 16
     initialized_from_dependency: false
     possible_answer: println!("Hello, world!");
-    selected: false
-    status: Unchecked
+    selected: true
+    status: Solved
   text: |
     fn main() {
         // put you code here to launch it
@@ -62,5 +62,8 @@ files:
 
 
   learner_created: false
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: Sun, 16 Aug 2020 03:05:11 UTC
 record: -1
