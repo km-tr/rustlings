@@ -3,7 +3,7 @@ files:
 - name: src/main.rs
   visible: true
   placeholders:
-  - offset: 73
+  - offset: 77
     length: 6
     placeholder_text: x = 6;
     initial_state:
@@ -11,7 +11,7 @@ files:
       offset: 73
     initialized_from_dependency: false
     possible_answer: //x = 6;
-    selected: false
+    selected: true
     status: Solved
   text: |
     fn main() {
@@ -30,6 +30,8 @@ files:
     edition = "2018"
   learner_created: false
 status: Solved
+feedback:
+  time: Sun, 16 Aug 2020 06:44:40 UTC
 record: -1
 solution_hidden: true
 post_submission_on_open: true

@@ -12,7 +12,7 @@ files:
   visible: true
   placeholders:
   - offset: 16
-    length: 7
+    length: 4
     placeholder_text: '//TODO:'
     initial_state:
       length: 7
@@ -20,7 +20,7 @@ files:
     initialized_from_dependency: false
     possible_answer: let
     selected: false
-    status: Unchecked
+    status: Solved
   text: |-
     fn main() {
         //TODO: x = 5;
@@ -42,5 +42,8 @@ files:
 
 
   learner_created: false
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: Sun, 16 Aug 2020 06:47:44 UTC
 record: -1

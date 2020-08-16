@@ -12,7 +12,7 @@ files:
   visible: true
   placeholders:
   - offset: 21
-    length: 31
+    length: 5
     placeholder_text: /*insert here missing part(s)*/
     initial_state:
       length: 31
@@ -20,7 +20,7 @@ files:
     initialized_from_dependency: false
     possible_answer: ': u32 = 8'
     selected: false
-    status: Unchecked
+    status: Solved
   text: |-
     fn main() {
         let x/*insert here missing part(s)*/;
@@ -46,5 +46,8 @@ files:
 
 
   learner_created: false
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: Sun, 16 Aug 2020 06:57:53 UTC
 record: -1

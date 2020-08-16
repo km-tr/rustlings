@@ -21,6 +21,8 @@ files:
     version = "0.1.0"
     edition = "2018"
   learner_created: false
-status: Unchecked
+status: Solved
+feedback:
+  time: Sun, 16 Aug 2020 06:53:36 UTC
 record: -1
 post_submission_on_open: true

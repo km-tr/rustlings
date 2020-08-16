@@ -1,4 +1,4 @@
 fn main() {
-    let xTODO;
+    let x = 0;
     println!("Number {}", x);
 }
