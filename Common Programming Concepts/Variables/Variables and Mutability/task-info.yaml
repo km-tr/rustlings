@@ -12,7 +12,7 @@ files:
     initialized_from_dependency: false
     possible_answer: //x = 6;
     selected: false
-    status: Unchecked
+    status: Solved
   text: |
     fn main() {
         let x = 5;
@@ -29,7 +29,7 @@ files:
     version = "0.1.0"
     edition = "2018"
   learner_created: false
-status: Unchecked
+status: Solved
 record: -1
 solution_hidden: true
 post_submission_on_open: true
